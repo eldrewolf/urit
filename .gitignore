@@ -1,0 +1,9 @@
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+#object files
+*.o
+
+test/test
+urit
